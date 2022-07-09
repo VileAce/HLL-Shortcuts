@@ -86,7 +86,7 @@ echo HotKey=0 >> "%LinkPath5%"
 echo. 
 echo. Create desktop shortcut #6... 
 echo [InternetShortcut] > "%LinkPath6%"
-echo URL=%URL_PATH6% >> "%LinkPath5%"
+echo URL=%URL_PATH6% >> "%LinkPath6%"
 echo IDList= >> "%LinkPath6%"
 echo IconFile=%ICONDEST%\%IconName% >> "%LinkPath6%"
 echo IconIndex=0 >> "%LinkPath6%"
